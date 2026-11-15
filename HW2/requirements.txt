@@ -1,0 +1,3 @@
+numpy
+matplotlib
+loguru==0.7.2
